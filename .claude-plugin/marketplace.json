@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jake-financial-plugins",
+  "description": "Private financial services plugins: financial analysis, private equity, and equity research",
+  "owner": {
+    "name": "jake"
+  },
+  "plugins": [
+    {
+      "name": "financial-analysis",
+      "description": "Core financial modeling and analysis tools: DCF, comps, LBO, 3-statement models, competitive analysis, and deck QC",
+      "source": "./financial-analysis"
+    },
+    {
+      "name": "private-equity",
+      "description": "Private equity deal sourcing and workflow tools: deal screening, IC memos, DD prep, portfolio monitoring, and returns analysis",
+      "source": "./private-equity"
+    },
+    {
+      "name": "equity-research",
+      "description": "Equity research tools: earnings analysis, initiating coverage reports, morning notes, and sector overviews",
+      "source": "./equity-research"
+    }
+  ]
+}

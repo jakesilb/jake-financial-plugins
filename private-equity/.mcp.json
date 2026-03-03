@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "pitchbook": {
+      "type": "http",
+      "url": "https://premium.mcp.pitchbook.com/mcp",
+      "_note": "TODO: Add PitchBook API key — VC/PE deal data, company profiles, investors"
+    },
+    "chronograph": {
+      "type": "http",
+      "url": "https://ai.chronograph.pe/mcp",
+      "_note": "TODO: Add Chronograph API key — PE portfolio management and fund analytics"
+    }
+  }
+}

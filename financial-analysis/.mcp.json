@@ -1,0 +1,59 @@
+{
+  "mcpServers": {
+    "daloopa": {
+      "type": "http",
+      "url": "https://mcp.daloopa.com/server/mcp",
+      "_note": "TODO: Add Daloopa API key — automated financial data extraction from filings"
+    },
+    "morningstar": {
+      "type": "http",
+      "url": "https://mcp.morningstar.com/mcp",
+      "_note": "TODO: Add Morningstar API key — fund/equity research and ratings data"
+    },
+    "sp-global": {
+      "type": "http",
+      "url": "https://kfinance.kensho.com/integrations/mcp",
+      "_note": "TODO: Add S&P Global / Kensho API key — Capital IQ financial data"
+    },
+    "factset": {
+      "type": "http",
+      "url": "https://mcp.factset.com/mcp",
+      "_note": "TODO: Add FactSet API key — financial data and analytics"
+    },
+    "moodys": {
+      "type": "http",
+      "url": "https://api.moodys.com/genai-ready-data/m1/mcp",
+      "_note": "TODO: Add Moody's API key — credit ratings and risk data"
+    },
+    "mtnewswire": {
+      "type": "http",
+      "url": "https://vast-mcp.blueskyapi.com/mtnewswires",
+      "_note": "TODO: Add MT Newswire API key — press releases and corporate news"
+    },
+    "aiera": {
+      "type": "http",
+      "url": "https://mcp-pub.aiera.com",
+      "_note": "TODO: Add Aiera API key — earnings call transcripts and events"
+    },
+    "lseg": {
+      "type": "http",
+      "url": "https://api.analytics.lseg.com/lfa/mcp",
+      "_note": "TODO: Add LSEG API key — Refinitiv financial data"
+    },
+    "pitchbook": {
+      "type": "http",
+      "url": "https://premium.mcp.pitchbook.com/mcp",
+      "_note": "TODO: Add PitchBook API key — VC/PE deal data and company profiles"
+    },
+    "chronograph": {
+      "type": "http",
+      "url": "https://ai.chronograph.pe/mcp",
+      "_note": "TODO: Add Chronograph API key — PE portfolio management data"
+    },
+    "egnyte": {
+      "type": "http",
+      "url": "https://mcp-server.egnyte.com/mcp",
+      "_note": "TODO: Add Egnyte API key — document management and file access"
+    }
+  }
+}
