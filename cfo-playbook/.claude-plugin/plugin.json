@@ -1,0 +1,8 @@
+{
+  "name": "cfo-playbook",
+  "version": "0.1.0",
+  "description": "CFO frameworks for PE investment evaluation: cashflow quality, capex evaluation, working capital analysis, capital allocation, deal diligence, value creation, capital structure, deal structuring, and common pitfalls",
+  "author": {
+    "name": "Anthropic FSI"
+  }
+}
